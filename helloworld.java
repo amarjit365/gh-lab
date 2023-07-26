@@ -1,18 +1,9 @@
-public class Hello {
-	public static void main(String[] args) {
 
+//Your First Program
 
-
-
-
-
-
-
-
-
-
-
-
-		System.out.println("Hello, Ama:");m
+class helloWorld {
+	public static void main(String[]args) {
+          system.out.println("Hello, Amarjit!");
 	}
 }
+:	
