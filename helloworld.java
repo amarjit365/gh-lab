@@ -1,6 +1,3 @@
-//This a simple java program
-
-
 public Class Exercise1 {
  
  public static void main(String[] args) {
